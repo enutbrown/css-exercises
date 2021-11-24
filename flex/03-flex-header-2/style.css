@@ -41,7 +41,7 @@ body {
 .right-side {
   display: flex;
   justify-content: flex-end;
-  gap: 8px;
+  gap: 8px; 
 }
 
 button {
